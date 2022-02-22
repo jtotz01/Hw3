@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type= "text/css" href= "style.css" ?>
+
+<setList>
+    
+    <title>Totz and the Boys</title>
+    <title>Song List</title>
+    
+    <song>
+        <title>"Without Me"</title>
+        <artist>Eminem</artist>
+        <genre>Rap</genre>
+        <release_year>2002</release_year>
+    </song>
+    <song>
+        <title>"Lose Yourself"</title>
+        <artist>Eminem</artist>
+        <genre>Rap</genre>
+        <release_year>2002</release_year>
+    </song>
+    <song>
+        <title>"Still Dre"</title>
+        <artist>Dr. Dre</artist>
+        <genre>Rap</genre>
+        <release_year>1999</release_year>
+    </song>
+    <song>
+        <title>"YYZ"</title>
+        <artist>Rush</artist>
+        <genre>Rock</genre>
+        <release_year>1981</release_year>
+    </song>
+    <song>
+        <title>"Tom Sawyer"</title>
+        <artist>Rush</artist>
+        <genre>Rock</genre>
+        <release_year>1976</release_year>
+    </song>
+    <song>
+        <title>"Recuerdos de la Alhambra"</title>
+        <artist>Francisco Tarrega</artist>
+        <genre>Classical</genre>
+        <release_year>1899</release_year>
+    </song>
+    <song>
+        <title>"Capricho Arabe"</title>
+        <artist>Francisco Tarrega</artist>
+        <genre>Classical</genre>
+        <release_year>1982</release_year>
+    </song>
+    <song>
+        <title>"Lagrima"</title>
+        <artist>Francisco Tarrega</artist>
+        <genre>Classical</genre>
+        <release_year>1891</release_year>
+    </song>
+    <song>
+        <title>"My Harmony"</title>
+        <artist>Andrew Rayel</artist>
+        <genre>EDM</genre>
+        <release_year>2021</release_year>
+    </song>
+    <song>
+        <title>"Between Rays"</title>
+        <artist>Andrew Rayel</artist>
+        <genre>EDM</genre>
+        <release_year>2021</release_year>
+    </song>
+
+</setList>
